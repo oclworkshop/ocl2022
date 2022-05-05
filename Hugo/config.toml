@@ -18,7 +18,7 @@ uglyURLs = true
   tagline = "21st International Workshop on OCL and Textual Modeling, October 23-25 2022, Montreal, Canada"
 
   # Footer; Markdown accepted here.
-  footer = "Copyright 2022 &copy; OCL Workshop 202 Organizers | Powered by [Hugo](http://gohugo.io) and the [Slender](http://themes.gohugo.io/slender/) theme"
+  footer = "Copyright 2022 &copy; OCL Workshop 2022 Organizers | Powered by [Hugo](http://gohugo.io) and the [Slender](http://themes.gohugo.io/slender/) theme"
 
   # Description and keywords for <meta> tags.
   # Remember to set this for your main page.

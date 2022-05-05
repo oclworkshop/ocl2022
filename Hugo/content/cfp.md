@@ -23,7 +23,7 @@ of such languages are OCL, textual MOF, Epsilon, and Alloy. Textual
 modeling languages have their roots in formal language paradigms like logic,
 programming and databases.
 
-The goal of this workshop is to create a forum where researchers and practitioners
+The goal of this workshop is to provide a space for interactions where researchers and practitioners
 interested in building models using OCL or other kinds of textual
 languages can directly interact, report advances, share results, identify tools
 for language development, and discuss appropriate standards. In particular,
