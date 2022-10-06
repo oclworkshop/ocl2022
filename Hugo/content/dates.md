@@ -15,6 +15,6 @@ The important dates you should bear in mind for the workshop are the following:
 - **Paper submission:**        July 20 2022, AoE       
 - **Notification:**            August 19 2022, AoE
 - **Camera ready:**            August 26 2022, AoE  
-- **Workshop:**                October 23-25 2022  
+- **Workshop:**                October 23 2022  
 
 Should you have any problem to meet the deadlines, please contact the organizers.
